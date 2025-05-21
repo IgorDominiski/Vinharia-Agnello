@@ -1,4 +1,4 @@
-# Vinharia Agnello - Website
+# Vinharia-Agnello
 
 ## Descrição
 Este projeto é uma página web moderna e interativa para a Vinharia Agnello, focada em apresentar os vinhos e a história da vinícola. O design utiliza técnicas modernas de layout e interatividade para criar uma experiência envolvente para os visitantes.
@@ -21,11 +21,11 @@ Este projeto é uma página web moderna e interativa para a Vinharia Agnello, fo
   - `translate()` para efeitos de elevação nos elementos interativos
 
 ## Autor
-[Seu Nome Completo]
+Igor Dominiski
 
 ## Links
-- [Link do Repositório no GitHub]
-- [Link do Site no GitHub Pages]
+- [Repositório no GitHub](https://github.com/IgorDominiski/Vinharia-Agnello)
+- [Site no GitHub Pages](https://igordominiski.github.io/Vinharia-Agnello/)
 
 ## Estrutura do Projeto
 ```
@@ -35,4 +35,4 @@ checkpoint03-flexbox/
 ├── README.md
 └── css/
     └── flex-style.css
-``` # Vinharia-Agnello
+```
